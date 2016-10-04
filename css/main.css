@@ -17,7 +17,7 @@ a:hover {
 hr {
   width: 50%;
   border: solid 2px #C0B283;
-  
+
 }
 
 /* NAV STYLE */
@@ -40,6 +40,7 @@ hr {
   left: 0;
   top: 0;
   position: fixed;
+  background-color: #fff;
 }
 
 .navT .icon {
