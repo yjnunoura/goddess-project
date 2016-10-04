@@ -230,20 +230,15 @@ p {
 
 /*==== MAIN SECTION ====*/
 
-#myCarousel {
-  margin-top: 70px!important;
-}
-
-.carousel-inner>.item>img {
-  height: 300px;
+.slide {
   width: 100%;
+  height: 500px;
+  background-color: #191919;
+  text-align: center;
 }
 
-/* events */
-
-.events {
-  background: url("https://hd.unsplash.com/photo-1466907840060-8934465084e5");
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 250px;
+.goddess-header {
+  height: 200px;
+  width: 400px;
+  margin-top: 45%;
 }
