@@ -14,6 +14,9 @@ a:hover {
   text-decoration: none!important;
 }
 
+h1 {
+  color: #191919;
+}
 hr {
   width: 50%;
   border: solid 2px #C0B283;
@@ -234,4 +237,13 @@ p {
 .carousel-inner>.item>img {
   height: 300px;
   width: 100%;
+}
+
+/* events */
+
+.events {
+  background: url("https://hd.unsplash.com/photo-1466907840060-8934465084e5");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 250px;
 }
