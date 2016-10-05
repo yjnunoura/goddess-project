@@ -160,7 +160,6 @@ a:hover {
 }
 
 .goddess-header {
-  height: 200px;
   margin-top: 30%;
 }
 
@@ -189,6 +188,7 @@ a:hover {
   font-weight: 300;
   padding-top: 45px;
   font-size: 2rem;
+  margin-left: 10px;
 }
 
 .event-reserve {
@@ -200,7 +200,7 @@ a:hover {
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.2rem;
-  vertical-align: middle;
+  width: 80px;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #c4c7cc;
 }
