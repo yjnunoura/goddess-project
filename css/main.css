@@ -156,12 +156,11 @@ a:hover {
   height: 375px;
   background-color: #191919;
   text-align: center;
-  width: 100%;
+  width: 390px;
 }
 
 .goddess-header {
   margin-top: 30%;
-  width: 100%;
 }
 
 /** event section **/
@@ -202,6 +201,7 @@ a:hover {
   font-weight: 300;
   line-height: 1.2rem;
   width: 80px;
+  height: 20px;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #c4c7cc;
 }
