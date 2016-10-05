@@ -240,6 +240,11 @@ p {
   margin-top: 30%;
 }
 
-.event h1 {
+/** event section **/
+
+.event-entry {
+  background-color: #191919;
+  height: 187.5px;
+  color: #fff;
   text-align: center;
 }
