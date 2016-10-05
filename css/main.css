@@ -8,32 +8,58 @@ html {
   overflow-x: hidden;
 }
 
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
 
 a:hover {
   text-decoration: none!important;
 }
 
-h1 {
-  color: #bf9f70;
+.title-border {
+    background: url("img/goddess-hr.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 43px;
 }
 
-hr.style18 {
-  height: 30px;
-  border-style: solid;
-  border-color: #C0B283;
-  border-width: 1px 0 0 0;
-  border-radius: 20px;
-  width: 70%;
+.title-border {
+    display: block;
+    height: 24px;
+    margin: 0 auto;
+    position: relative;
 }
-hr.style18:before {
-  display: block;
-  content: "";
-  height: 30px;
-  margin-top: -31px;
-  border-style: solid;
-  border-color: #C0B283;
-  border-width: 0 0 1px 0;
-  border-radius: 20px;
+
+.title-border::before {
+    width: 76px;
+}
+.title-border:before {
+    left: 100%;
+}
+
+.title-border:before {
+    background: #af9a81;
+    content: "";
+    height: 1px;
+    position: absolute;
+    top: 10px;
+    width: 82px;
+}
+
+.title-border::after, .title-border::before {
+    width: 76px;
+}
+.title-border:after {
+    right: 100%;
+}
+.title-border:after, .title-border:before {
+    background: #af9a81;
+    content: "";
+    height: 1px;
+    position: absolute;
+    top: 10px;
+    width: 82px;
 }
 
 /* NAV STYLE */
