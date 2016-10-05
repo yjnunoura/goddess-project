@@ -227,6 +227,10 @@ p {
 
 /*==== MAIN SECTION ====*/
 
+.main {
+  width: 100%;
+}
+
 .slide {
   margin: 0 auto;
   height: 375px;
@@ -268,7 +272,7 @@ p {
 }
 
 .event-reserve {
-  margin-top: 40px;
+  margin-top: 45px;
   display: inline-block;
   border: 1px solid rgba(255,255,255,0.5);
   border-radius: 4px;
