@@ -234,11 +234,11 @@ p {
   height: 500px;
   background-color: #191919;
   text-align: center;
+  width: 100%;
 }
 
 .goddess-header {
   height: 200px;
-  width: 400px;
   margin-top: 45%;
 }
 
