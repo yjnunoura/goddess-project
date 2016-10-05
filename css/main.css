@@ -1,5 +1,5 @@
 html, body {
-  width: 100%;
+
   margin: 0px;
 }
 
@@ -241,4 +241,8 @@ p {
   height: 200px;
   width: 400px;
   margin-top: 45%;
+}
+
+.event h1 {
+  text-align: center;
 }
