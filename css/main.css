@@ -14,12 +14,26 @@ a:hover {
 }
 
 h1 {
-  color: #191919;
+  color: #bf9f70;
 }
-hr {
-  width: 50%;
-  border: solid 2px #C0B283;
 
+hr.style18 {
+  height: 30px;
+  border-style: solid;
+  border-color: #C0B283;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+  width: 70%;
+}
+hr.style18:before {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #C0B283;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
 }
 
 /* NAV STYLE */
