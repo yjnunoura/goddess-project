@@ -83,6 +83,8 @@ a:hover {
   top: 0;
   position: fixed;
   background-color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
 }
 
 .navT .icon {
