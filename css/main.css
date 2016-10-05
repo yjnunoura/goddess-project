@@ -17,50 +17,6 @@ a:hover {
   text-decoration: none!important;
 }
 
-.title-border {
-    background: url("img/goddess-hr.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 43px;
-}
-
-.title-border {
-    display: block;
-    height: 24px;
-    margin: 0 auto;
-    position: relative;
-}
-
-.title-border::before {
-    width: 76px;
-}
-.title-border:before {
-    left: 100%;
-}
-
-.title-border:before {
-    background: #af9a81;
-    content: "";
-    height: 1px;
-    position: absolute;
-    top: 10px;
-    width: 82px;
-}
-
-.title-border::after, .title-border::before {
-    width: 76px;
-}
-.title-border:after {
-    right: 100%;
-}
-.title-border:after, .title-border:before {
-    background: #af9a81;
-    content: "";
-    height: 1px;
-    position: absolute;
-    top: 10px;
-    width: 82px;
-}
 
 /* NAV STYLE */
 #logo {
@@ -273,7 +229,7 @@ p {
 
 .slide {
   margin: 0 auto;
-  height: 500px;
+  height: 375px;
   background-color: #191919;
   text-align: center;
   width: 100%;
@@ -281,7 +237,7 @@ p {
 
 .goddess-header {
   height: 200px;
-  margin-top: 45%;
+  margin-top: 30%;
 }
 
 .event h1 {
