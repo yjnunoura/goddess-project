@@ -142,6 +142,7 @@ a:hover {
 .main {
   background: #191919;
   background-size: cover;
+  text-align: center;
 }
 
 .slide {
