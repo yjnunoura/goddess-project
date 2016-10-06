@@ -226,6 +226,8 @@ a:hover {
 .event {
   height: 187.5px;
   background-color: #191919;
+  color: #C0B283;
+  text-align: center;
 }
 
 .event-entry-1 {
@@ -238,4 +240,34 @@ a:hover {
   background: url("https://hd.unsplash.com/photo-1438557068880-c5f474830377");
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.event-date {
+  font-weight: 800;
+  letter-spacing: 2px;
+  line-height: 2.4rem;
+  height: 30px;
+
+}
+
+.event-title {
+  height: 50px;
+  font-weight: 300;
+  padding-top: 45px;
+  font-size: 2rem;
+  margin-left: 10px;
+}
+
+.event-reserve {
+  display: inline-block;
+  border: 1px solid #C0B283;
+  border-radius: 4px;
+  padding: 4px 6px;
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.2rem;
+  width: 80px;
+  height: 20px;
+  -webkit-font-smoothing: subpixel-antialiased;
+  color: #C0B283;
 }
