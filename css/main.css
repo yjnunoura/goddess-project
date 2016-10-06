@@ -224,12 +224,18 @@ a:hover {
 
 .event {
   height: 187.5px;
+  background-color: #191919;
 }
 
 .event-entry-1 {
   background-color: red;
+  background: url("https://images.unsplash.com/photo-1473247432547-8dad9b3c2d61?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=4b8716facb7290ccb495bc29a2bac6bf");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .event-entry-2 {
-  background-color: blue;
+  background: url("https://hd.unsplash.com/photo-1438557068880-c5f474830377");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
