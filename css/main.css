@@ -1,11 +1,5 @@
-html, body {
-  margin: 0px;
-}
-
-
 html {
   background: #fff;
-  overflow-x: hidden;
 }
 
 h1 {
@@ -169,10 +163,18 @@ a:hover {
 .event-entry {
   background-color: #191919;
   height: 187.5px;
-  color: #fff;
+  color: #C0B283;
   text-align: center;
-  -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+}
+
+.caption-bg {
+  background: #fff;
+  opacity: .8;
+  position: absolute;
+  width: 80%;
+  left: 25px;
+  top: 20px;
 }
 
 .event-date {
@@ -195,7 +197,7 @@ a:hover {
 .event-reserve {
   margin-top: 45px;
   display: inline-block;
-  border: 1px solid rgba(255,255,255,0.5);
+  border: 1px solid #C0B283;
   border-radius: 4px;
   padding: 4px 6px;
   font-size: 1.2rem;
@@ -204,7 +206,7 @@ a:hover {
   width: 80px;
   height: 20px;
   -webkit-font-smoothing: subpixel-antialiased;
-  color: #c4c7cc;
+  color: #C0B283;
 }
 
 .event-entry-1 {
