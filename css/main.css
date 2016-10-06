@@ -149,7 +149,6 @@ a:hover {
   margin: 0 auto;
   height: 375px;
   text-align: center;
-  overflow-x: hidden;
 }
 
 .goddess-header {
@@ -158,57 +157,6 @@ a:hover {
 
 /** event section **/
 /*
-.event-section {
-  wid
-}
-.event-entry {
-  height: 187.5px;
-  color: #C0B283;
-  text-align: center;
-}
-
-.caption-bg {
-  background: #191919;
-  background-size: cover;
-  opacity: .7;
-  position: absolute;
-  left: 25px;
-  top: 5px;
-  height: 100%;
-  width: 100%;
-}
-
-.event-date {
-  padding-top: 35px;
-  font-size: 2.4rem;
-  font-weight: 800;
-  letter-spacing: 2px;
-  line-height: 2.4rem;
-  height: 30px;
-}
-
-.event-subtitle {
-  height: 50px;
-  font-weight: 300;
-  padding-top: 45px;
-  font-size: 2rem;
-  margin-left: 10px;
-}
-
-.event-reserve {
-  margin-top: 45px;
-  display: inline-block;
-  border: 1px solid #C0B283;
-  border-radius: 4px;
-  padding: 4px 6px;
-  font-size: 1.2rem;
-  font-weight: 300;
-  line-height: 1.2rem;
-  width: 80px;
-  height: 20px;
-  -webkit-font-smoothing: subpixel-antialiased;
-  color: #C0B283;
-}
 
 .event-entry-1 {
   background: url("https://images.unsplash.com/photo-1473247432547-8dad9b3c2d61?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=4b8716facb7290ccb495bc29a2bac6bf");
@@ -225,21 +173,19 @@ a:hover {
 
 .event {
   height: 187.5px;
-  background-color: #191919;
+  background-color: maroon;
   color: #C0B283;
   text-align: center;
+  width: 50%;
+  float: left;
 }
 
 .event-entry-1 {
-  background: url("https://images.unsplash.com/photo-1473247432547-8dad9b3c2d61?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=4b8716facb7290ccb495bc29a2bac6bf");
-  background-size: cover;
-  background-repeat: no-repeat;
+
 }
 
 .event-entry-2 {
-  background: url("https://hd.unsplash.com/photo-1438557068880-c5f474830377");
-  background-size: cover;
-  background-repeat: no-repeat;
+
 }
 
 .event-date {
