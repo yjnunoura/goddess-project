@@ -9,7 +9,9 @@ h1 {
 a:hover {
   text-decoration: none!important;
 }
-
+.wrapper {
+  width: 100%;
+}
 .content-wrapper {
   width: 100%;
 }
