@@ -24,13 +24,9 @@ a:hover {
   position: absolute;
 }
 
-#container {
-  z-index: 111;
-}
-
 .navT {
   -webkit-transition: all 0.25s;
-  z-index: 111;
+  
   cursor: pointer;
   width: 100%;
   height: 65px;
