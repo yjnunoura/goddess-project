@@ -239,3 +239,10 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.caption-bg {
+  background: #191919;
+  opacity: .7;
+  height: 80%;
+  width: 80%;
+}
