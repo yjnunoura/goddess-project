@@ -157,6 +157,7 @@ a:hover {
 }
 
 /** event section **/
+/*
 .event-section {
   wid
 }
@@ -219,4 +220,17 @@ a:hover {
   background: url("https://hd.unsplash.com/photo-1438557068880-c5f474830377");
   background-size: cover;
   background-repeat: no-repeat;
+}
+*/
+
+.event {
+  height: 187.5px;
+}
+
+.event-entry-1 {
+  background-color: red;
+}
+
+.event-entry-2 {
+  background-color: blue;
 }
