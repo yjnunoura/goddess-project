@@ -141,14 +141,14 @@ a:hover {
 
 .main {
   width: 100%;
+  background: #191919;
+  background-size: cover;
 }
 
 .slide {
   margin: 0 auto;
   height: 375px;
-  background-color: #191919;
   text-align: center;
-  width: 390px;
   overflow-x: hidden;
 }
 
@@ -157,9 +157,10 @@ a:hover {
 }
 
 /** event section **/
-
+.event-section {
+  wid
+}
 .event-entry {
-  background-color: #191919;
   height: 187.5px;
   color: #C0B283;
   text-align: center;
