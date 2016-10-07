@@ -192,3 +192,27 @@ a:hover {
   overflow: hidden;
   margin-top: 120px;
 }
+
+.event-entry-1 {
+  background: url("https://images.unsplash.com/photo-1473691955023-da1c49c95c78?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d7bef4a185d4e918d34d53552714838f");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.event-entry-2 {
+  background: url("https://hd.unsplash.com/photo-1416235150813-dcb31b0653e8");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.event-entry-3 {
+  background: url("https://hd.unsplash.com/photo-1471967183320-ee018f6e114a");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.event-entry-4 {
+  background: url("https://hd.unsplash.com/photo-1464375117522-1311d6a5b81f");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
