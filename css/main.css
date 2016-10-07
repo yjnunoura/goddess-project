@@ -208,14 +208,16 @@ a:hover {
   display: inline-block;
   border: 1px solid #C0B283;
   border-radius: 4px;
-  padding: 4px 6px;
+  padding: 8px 12px;
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.2rem;
   width: 80px;
-  height: 20px;
   -webkit-font-smoothing: subpixel-antialiased;
   color: #C0B283;
+  height: 35px;
+  background-color: transparent;
+  text-transform: uppercase;
 }
 
 .caption {
